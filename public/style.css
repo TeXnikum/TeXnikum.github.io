@@ -29,12 +29,13 @@ body {
 .sidebar a {
     color: #fff;
     text-decoration: none;
+    font-size: 24pt;
 }
 
 .sidebar h1 {
     color: #fff;
     margin-top: 0;
-    font-size: 24pt;
+    font-size: 32pt;
 }
 .sidebar-nav {
     padding-left: 0;
