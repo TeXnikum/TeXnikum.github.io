@@ -23,8 +23,7 @@ html {
 }
 
 .sidebar a {
-    /* color: #fff; */
-    color: rgb(153, 145, 151)
+    color: #fff;
     text-decoration: none;
 }
 
@@ -57,6 +56,8 @@ a.sidebar-nav-item:focus {
 .content {
     padding-top: 4rem;
     padding-bottom: 4rem;
+    background-color: rgb(153, 145, 151)
+
 }
 
 @media (min-width: 48rem) {
