@@ -47,8 +47,8 @@ body {
     padding-bottom: 0.5rem;
 }
 
-.sidebar-nav-item a:hover,
-.sidebar-nav-item a:focus {
+a:hover,
+a:focus {
     text-decoration: underline;
 }
 .sidebar-nav-item.active {
