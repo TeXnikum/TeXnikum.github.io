@@ -53,7 +53,7 @@ a .sidebar-nav-item:focus {
     text-decoration: underline;
 }
 
-a.sidebar-nav-item {
+.sidebar-nav-item a {
     font-wheight: bold;
 }
 
