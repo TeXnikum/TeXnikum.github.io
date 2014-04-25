@@ -1,0 +1,12 @@
+
+html {
+    font-family: "PT Sans";
+    font-size: 18px;
+}
+
+.sidebar {
+    text-align: center;
+    padding: 2rem 1rem;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgb(100, 20, 80);
+}
