@@ -68,6 +68,7 @@ a:focus {
 .content {
     padding-top: 4rem;
     padding-bottom: 4rem;
+    border-left: thick solid #DE4991;
 }
 
 @media (min-width: 48rem) {
