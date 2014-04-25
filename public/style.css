@@ -10,3 +10,23 @@ html {
     color: rgba(255, 255, 255, 1);
     background-color: rgb(100, 20, 80);
 }
+
+@media (min-width: 48rem) {
+    .sidebar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        width: 18rem;
+        text-align: left;
+    }
+}
+
+.sidebar a {
+    color: #fff;
+}
+
+.sidebar-nav {
+    padding-left: 0;
+    list-style: none;
+}
