@@ -13,7 +13,6 @@ body {
     padding: 2rem 1rem;
     color: rgba(255, 255, 255, 1);
     background-color: #4D1740;
-    border-left: thick solid #CE1E73;
 }
 
 @media (min-width: 48rem) {
