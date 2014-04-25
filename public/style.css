@@ -42,3 +42,9 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-item.active {
     font-wheight: bold;
 }
+
+
+.content {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
