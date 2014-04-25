@@ -2,8 +2,9 @@
   <div class="sidebar-content">
     <h1>TeXnikum</h1>
     {% for node in site.data.pages %}
+    <a href="{{ node.url }}">
     {{ node.title }}
-    {{ node.url }}
+    </a>
     {% endfor %}
     <ul class="sidebar-nav">
       <li class="sidebar-nav-item"> <!-- {% if page.title == "texnikum.dk/hello" %}active{% endif %}"> -->
