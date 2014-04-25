@@ -23,7 +23,8 @@ html {
 }
 
 .sidebar a {
-    color: #fff;
+    /* color: #fff; */
+    color: rgb(153, 145, 151)
     text-decoration: none;
 }
 
