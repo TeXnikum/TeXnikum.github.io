@@ -49,9 +49,14 @@ body {
 }
 
 a .sidebar-nav-item:hover,
-a .sidebar-nav-itema:focus {
+a .sidebar-nav-item:focus {
     text-decoration: underline;
 }
+
+a.sidebar-nav-item {
+    font-wheight: bold;
+}
+
 .sidebar-nav-item.active {
     font-wheight: bold;
 }
