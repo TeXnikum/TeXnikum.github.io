@@ -1,13 +1,15 @@
 <div class="sidebar">
-  {{ page.title }}
-  <ul class="sidebar-nav">
-    <li class="sidebar-nav-item {% if page.title == "texnikum.dk/hello" %}active{% endif %}">
-      <a href="/">Home</a>
-    </li>
+  <div class="sidebar-content">
+    {{ page.title }}
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item {% if page.title == "texnikum.dk/hello" %}active{% endif %}">
+        <a href="/">Home</a>
+      </li>
 
-    <li class="sidebar-nav-item {% if page.title == "Github" %}active{% endif %}">
-      <a href="/">Github</a>
-    </li>
+      <li class="sidebar-nav-item {% if page.title == "Github" %}active{% endif %}">
+        <a href="/">Github</a>
+      </li>
 
-  </ul>
+    </ul>
+  </div>
 </div>
