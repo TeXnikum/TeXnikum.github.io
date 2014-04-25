@@ -43,11 +43,13 @@ a.sidebar-nav-item:focus {
     font-wheight: bold;
 }
 
-.sidebar-content {
-    position: absolute;
-    right: 1rem;
-    bottom: 1rem;
-    left: 1rem;
+@media (min-width: 48rem) {
+    .sidebar-content {
+        position: absolute;
+        right: 1rem;
+        bottom: 1rem;
+        left: 1rem;
+    }
 }
 
 .content {
