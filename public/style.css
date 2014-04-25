@@ -44,7 +44,7 @@ body {
 
 .sidebar-nav-item {
     display: block;
-    padding-bottom: 1rem;
+    padding-bottom: 0.5rem;
 }
 
 a.sidebar-nav-item:hover,
