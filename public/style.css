@@ -30,3 +30,7 @@ html {
     padding-left: 0;
     list-style: none;
 }
+
+.sidebar-nav-item {
+    display: block;
+}
