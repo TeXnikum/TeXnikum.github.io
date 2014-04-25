@@ -4,6 +4,10 @@ html {
     font-size: 18px;
 }
 
+body {
+    background-color: rgb(153, 145, 151)
+}
+
 .sidebar {
     text-align: center;
     padding: 2rem 1rem;
@@ -56,8 +60,6 @@ a.sidebar-nav-item:focus {
 .content {
     padding-top: 4rem;
     padding-bottom: 4rem;
-    background-color: rgb(153, 145, 151)
-
 }
 
 @media (min-width: 48rem) {
