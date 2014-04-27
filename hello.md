@@ -28,8 +28,6 @@ function replaceEmail (divClass, address) {
 function modifyPage () {
     replaceEmail('email-list', 'WUGT"GZCORNGEQO');
     replaceEmail('email-admin', 'WUGT"GZCORNGEQO');
-    alert("fugl");
-    document.write("bye");
 }
 
 window.addEventListener('load', modifyPage, true);
