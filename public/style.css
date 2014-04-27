@@ -17,7 +17,7 @@ body {
 .sidebar {
     text-align: center;
     padding: 2rem 1rem;
-    color: rgba(255, 255, 255, 1);
+    color: rgb(255, 255, 255);
     /* background-color: #4D1740; */
     background-color: #130C06;
     /* border-right: thick solid #CE1E73; */
