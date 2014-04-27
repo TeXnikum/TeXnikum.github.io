@@ -26,7 +26,7 @@ For at undgå dette kan man bruge en mailingliste. En mailingliste er en speciel
 
 Når man sender en mail til mailinglisten sørger den for at sende mailen ud til alle medlemmerne, og ligeledes for alle svarene til denne mail.
 
-<img src="/images/illustration-3.png" class="img">
+<div style="text-align: center;"><img src="/images/illustration-3.png" class="img"></div>
 
 <img src="/images/illustration-4.png" class="img">
 
