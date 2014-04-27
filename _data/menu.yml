@@ -7,6 +7,14 @@
   text: "Hvad er en mailingliste?"
   url: "/mailinglister"
 
+- title: Mailetikette
+  text: "God mailetikette"
+  url: "/mailetikette"
+
+- title: "Gmail"
+  text: "Gmail filtre"
+  url: "/gmail"
+
 - title: hello
   text: hello
   url: "/hello"
