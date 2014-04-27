@@ -28,7 +28,7 @@ var enc = s.replace(/./g, function(letter) {return String.fromCharCode(letter.ch
 document.write(enc);
 </script>
 
-<div class="email">
+<div class="email-list">
 kage
 </div>
 
