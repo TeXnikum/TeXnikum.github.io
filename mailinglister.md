@@ -5,41 +5,39 @@ title: Mailinglister
 
 # Hvad er en mailingliste?
 
-Mailinglister er en teknologi der gør det nemmere at kommunikere med flere mennesker via mail på en gang.
+Mailinglister er en teknologi der gør det nemmere at kommunikere med flere mennesker på en gang via mail.
 
 ## Uden mailinglister
 [
   Alice
   Bob
-  Charlie
-  Daniel
-  Emil
+  Carl
+  David
 
   From: Alice
-  To: Bob, Charlie, Daniel, Emil
+  To: Bob, Carl, David
   Hej alle texnikere!
 ]
 
 Hvis Alice ønsker at sende en mail til alle de andre i de forskellige revyers texnikgrupper kræver det at hun kender alle de andres mailaddresser hvortil hun kan sende en mail.
 
-Hvis Charlie nu ønsker at svare på Alices mail, er det vigtigt at han sender svaret til alle (via ``reply all'') ellers sendes svaret kun til Alice.
+Hvis Carl nu ønsker at svare på Alices mail, er det vigtigt at han sender svaret til alle (via ``reply all'') ellers sendes svaret kun til Alice.
 
-Hvis nu Finn kommer til som ny i texnikken skal han nu til at finde alle de andre der kunne tænkes at sende mails til alle texnikkere så de husker at sende mails til ham fremover.
+Hvis nu Emil kommer til som ny i texnikken skal han nu til at finde alle de andre der kunne tænkes at sende mails til alle texnikkere så de husker at sende mails til ham fremover.
 
 [
   Alice
   Bob
-  Charlie
-  Daniel
-  Emil
-  Finn :(
+  Carl
+  David
+  Emil :(
 
   From: Bob
-  To: Alice, Charlie, Daniel, Emil
+  To: Alice, Carl, David
   Jeg er den bedste lysmand!
 ]
 
-Ellers bliver Finn ked af det når Bob sender en mail ud til alle andre men glemmer (eller ikke kender til) Finn.
+Ellers bliver Emil ked af det når Bob sender en mail ud til alle andre men glemmer (eller ikke kender til) Emil.
 
 ## Med mailinglister
 
@@ -51,10 +49,9 @@ Når man sender en mail til mailinglisten sørger den for at sende mailen ud til
 [
   Alice
   Bob
-  Charlie
-  Daniel
+  Carl
+  David
   Emil
-  Finn
 
   From: Bob
   To: {{ site.email-list }}
@@ -64,12 +61,11 @@ Når man sender en mail til mailinglisten sørger den for at sende mailen ud til
 [
   Alice
   Bob
-  Charlie
-  Daniel
+  Carl
+  David
   Emil
-  Finn
 
-  From: Charlie
+  From: Carl
   To: {{ site.email-list }}
   > Jeg er den bedste lysmand!
   Nej det er jeg!
@@ -82,10 +78,10 @@ Når man bliver tilmeldt mailinglisten modtager man således al post sendt derti
 [
   Alice
   Bob
-  Charlie
-  Daniel
+  Carl
+  David
   Emil
-  Finn
+  Ond rekvisitboss
 
   From: Ond rekvisitboss
   To: {{ site.email-list }}
