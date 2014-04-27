@@ -16,6 +16,7 @@ Mailinglister er en teknologi der gør det nemmere at kommunikere med flere menn
 
   From: Alice
   To: Bob, Carl, David
+
   Hej alle texnikere!
 ]
 
@@ -34,6 +35,7 @@ Hvis nu Emil kommer til som ny i texnikken skal han nu til at finde alle de andr
 
   From: Bob
   To: Alice, Carl, David
+
   Jeg er den bedste lysmand!
 ]
 
@@ -55,6 +57,7 @@ Når man sender en mail til mailinglisten sørger den for at sende mailen ud til
 
   From: Bob
   To: {{ site.email-list }}
+
   Jeg er den bedste lysmand!
 ]
 
@@ -67,6 +70,7 @@ Når man sender en mail til mailinglisten sørger den for at sende mailen ud til
 
   From: Carl
   To: {{ site.email-list }}
+
   > Jeg er den bedste lysmand!
   Nej det er jeg!
 ]
@@ -85,6 +89,7 @@ Når man bliver tilmeldt mailinglisten modtager man således al post sendt derti
 
   From: Ond rekvisitboss
   To: {{ site.email-list }}
+
   Jeg kan ikke høre min boremaskine på grund af jeres lydprøve
 ]
 
