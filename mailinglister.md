@@ -12,7 +12,7 @@ Mailinglister er en teknologi der gør det nemmere at kommunikere med flere menn
 
 Hvis Alice ønsker at sende en mail til alle de andre i de forskellige revyers texnikgrupper kræver det at hun kender alle de andres mailaddresser hvortil hun kan sende en mail.
 
-Hvis Carl nu ønsker at svare på Alices mail, er det vigtigt at han sender svaret til alle (via **reply all**) ellers sendes svaret kun til Alice.
+Hvis Carl nu ønsker at svare på Alices mail, er det vigtigt at han sender svaret til alle (via *reply all*) ellers sendes svaret kun til Alice.
 
 Hvis nu Emil kommer til som ny i texnikken skal han nu til at finde alle de andre der kunne tænkes at sende mails til alle texnikkere så de husker at sende mails til ham fremover.
 
