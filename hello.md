@@ -2,6 +2,11 @@
 layout: default
 title: hello
 ---
+<script type="text/javascript">
+window.onload = function () {
+    var links = document
+}
+
 # TeXnikum
 Velkommen til.
 
@@ -17,7 +22,7 @@ var enc = s.replace(/./g, function(letter) {return String.fromCharCode(letter.ch
 document.write(enc);
 </script>
 
-<div id="email">
+<div class="email">
 kage
 </div>
 
