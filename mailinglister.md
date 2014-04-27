@@ -9,17 +9,6 @@ Mailinglister er en teknologi der gør det nemmere at kommunikere med flere menn
 
 ## Uden mailinglister
 <img src="/images/illustration-0.png">
-[
-  Alice
-  Bob
-  Carl
-  David
-
-  From: Alice
-  To: Bob, Carl, David
-
-  Hej alle texnikere!
-]
 
 Hvis Alice ønsker at sende en mail til alle de andre i de forskellige revyers texnikgrupper kræver det at hun kender alle de andres mailaddresser hvortil hun kan sende en mail.
 
@@ -28,18 +17,6 @@ Hvis Carl nu ønsker at svare på Alices mail, er det vigtigt at han sender svar
 Hvis nu Emil kommer til som ny i texnikken skal han nu til at finde alle de andre der kunne tænkes at sende mails til alle texnikkere så de husker at sende mails til ham fremover.
 
 <img src="/images/illustration-1.png">
-[
-  Alice
-  Bob
-  Carl
-  David
-  Emil :(
-
-  From: Bob
-  To: Alice, Carl, David
-
-  Jeg er den bedste lysmand!
-]
 
 Ellers bliver Emil ked af det når Bob sender en mail ud til alle andre men glemmer (eller ikke kender til) Emil.
 
@@ -50,33 +27,8 @@ For at undgå dette kan man bruge en mailingliste. En mailingliste er en speciel
 Når man sender en mail til mailinglisten sørger den for at sende mailen ud til alle medlemmerne, og ligeledes for alle svarene til denne mail.
 
 <img src="/images/illustration-3.png">
-[
-  Alice
-  Bob
-  Carl
-  David
-  Emil
-
-  From: Bob
-  To: {{ site.email-list }}
-
-  Jeg er den bedste lysmand!
-]
 
 <img src="/images/illustration-4.png">
-[
-  Alice
-  Bob
-  Carl
-  David
-  Emil
-
-  From: Carl
-  To: {{ site.email-list }}
-
-  > Jeg er den bedste lysmand!
-  Nej det er jeg!
-]
 
 Når man bliver tilmeldt mailinglisten modtager man således al post sendt dertil indtil man melder sig fra igen.
 
