@@ -32,6 +32,6 @@ function modifyPage () {
     document.write("bye");
 }
 
-window.addEventListener('DOMContentLoaded', modifyPage, true);
+window.addEventListener('load', modifyPage, true);
 
 </script>
