@@ -14,3 +14,7 @@
 - title: "Gmail"
   text: "Gmail filtre"
   url: "/gmail"
+
+- title: "Kontakt"
+  text: "Kontakt"
+  url: "/kontakt"
