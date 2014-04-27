@@ -3,6 +3,10 @@
   text: Velkommen
   url: "/"
 
+- title: Mailinglister
+  text: "Hvad er en mailingliste?"
+  url: "/mailinglister"
+
 - title: hello
   text: hello
   url: "/hello"
