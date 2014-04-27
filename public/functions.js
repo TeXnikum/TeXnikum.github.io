@@ -7,7 +7,9 @@ function replaceEmail (divClass, address) {
     }
 }
 
-window.onload = function () {
+function modifyPage () {
     replaceEmail('email-list', 'WUGT"GZCORNGEQO');
     replaceEmail('email-admin', 'WUGT"GZCORNGEQO');
 }
+
+window.addEventListener('load', modifyPage, true);
