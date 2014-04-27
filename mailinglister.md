@@ -3,12 +3,12 @@ layout: default
 title: Mailinglister
 ---
 
-# Hvad er en mailingliste
+# Hvad er en mailingliste?
 
 Mailinglister er en teknologi der gør det nemmere at kommunikere med flere
 mennesker via mail på en gang.
 
-# Uden mailinglister
+## Uden mailinglister
 [
   Alice
   Bob
@@ -48,10 +48,10 @@ mails til ham fremover.
 Ellers bliver Finn ked af det når Bob sender en mail ud til alle andre men
 glemmer (eller ikke kender til) Finn.
 
-# Med mailinglister
+## Med mailinglister
 
 For at undgå dette kan man bruge en mailingliste.
-En mailingliste er en speciel mailaddresse (f.eks. alle@texnikum.dk) som man kan
+En mailingliste er en speciel mailaddresse (f.eks. {{ site.email-list }}) som man kan
 blive medlem af/abonere på.
 Når man er med i en mailingliste sørger mailinglisten for at holde styr på hvem
 der er med og hvem der ikke er, så brugerne ikke behøver det.
@@ -69,7 +69,7 @@ alle medlemmerne, og ligeledes for alle svarene til denne mail.
   Finn
 
   From: Bob
-  To: alle@texnikum.dk
+  To: {{ site.email-list }}
   Jeg er den bedste lysmand!
 ]
 
@@ -82,7 +82,7 @@ alle medlemmerne, og ligeledes for alle svarene til denne mail.
   Finn
 
   From: Charlie
-  To: alle@texnikum.dk
+  To: {{ site.email-list }}
   > Jeg er den bedste lysmand!
   Nej det er jeg!
 ]
@@ -91,7 +91,7 @@ Når man bliver tilmeldt mailinglisten modtager man således al post sendt derti
 indtil man melder sig fra igen.
 
 
-# Svar til folk udenfor listen
+## Svar til folk udenfor listen
 [
   Alice
   Bob
@@ -101,7 +101,7 @@ indtil man melder sig fra igen.
   Finn
 
   From: Ond rekvisitboss
-  To: alle@texnikum.dk
+  To: {{ site.email-list }}
   Jeg kan ikke høre min boremaskine på grund af jeres lydprøve
 ]
 
