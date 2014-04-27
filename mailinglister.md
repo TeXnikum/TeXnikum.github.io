@@ -34,18 +34,6 @@ Når man bliver tilmeldt mailinglisten modtager man således al post sendt derti
 
 
 ## Svar til folk udenfor listen
-[
-  Alice
-  Bob
-  Carl
-  David
-  Emil
-  Ond rekvisitboss
-
-  From: Ond rekvisitboss
-  To: {{ site.email-list }}
-
-  Jeg kan ikke høre min boremaskine på grund af jeres lydprøve
-]
-
-  Jeg bestemmer dumme ting!
+<img src="/images/illustration-5.png" class="img">
+<img src="/images/illustration-6.png" class="img">
+<img src="/images/illustration-7.png" class="img">
