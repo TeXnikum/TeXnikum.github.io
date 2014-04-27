@@ -61,7 +61,7 @@ body {
     text-decoration: underline;
 }
 
-.sidebar-nav-item active {
+.sidebar-nav-item.active {
     font-wheight: bold;
 }
 
