@@ -4,7 +4,12 @@ title: hello
 ---
 <script type="text/javascript">
 window.onload = function () {
-    var links = document;
+    var s = 'WUGT"GZCORNGEQO';
+    var emails = document.getElementsByClassName("email-list");
+    for (var i = 0; i < emails.length; i++) {
+        var enc = s.replace(/./g, function(letter) {return String.fromCharCode(letter.charCodeAt(0)+30)});
+        emails[i].innerHTML = enc
+    }
 }
 </script>
 
