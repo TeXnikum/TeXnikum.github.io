@@ -1,4 +1,5 @@
-window.onload = function () {
+
+document.onload = function () {
     replaceEmail('email-list', 'WUGT"GZCORNGEQO');
     replaceEmail('email-admin', 'WUGT"GZCORNGEQO');
 }
