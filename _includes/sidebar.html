@@ -3,7 +3,7 @@
     <h1>TeXnikum</h1>
 
     <ul class="sidebar-nav">
-      {% for p in site.data.pages %}
+      {% for p in site.data.menu %}
       <li class="sidebar-nav-item {% if page.title == p.title %}active{% endif %}">
         <a href="{{ p.url }}">{{ p.title }}</a>
       </li>
