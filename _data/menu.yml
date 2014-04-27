@@ -11,9 +11,13 @@
   text: "God mailetikette"
   url: "/mailetikette"
 
-- title: "Gmail"
+- title: Gmail
   text: "Gmail filtre"
   url: "/gmail"
+
+- title: Wiki
+  text: Wiki
+  url: "/wiki"
 
 - title: "Kontakt"
   text: "Kontakt"
