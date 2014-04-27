@@ -13,7 +13,7 @@ var b = 'WUGT';
 var c = 'EQO';
 var d = '"GZC';
 var s = b + d + a + d;
-var enc = s.replace(/./g, function(letter) {return String.fromCharCode(letter.charCodeAt(0)-30)});
+var enc = s.replace(/./g, function(letter) {return String.fromCharCode(letter.charCodeAt(0)+30)});
 document.write(enc);
 </script>
 
