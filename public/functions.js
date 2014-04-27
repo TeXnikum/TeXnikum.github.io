@@ -12,7 +12,7 @@ function modifyPage () {
     replaceEmail('email-admin', 'WUGT"GZCORNGEQO');
 }
 
-window.addEventListener('load', modifyPage, true);
+window.addEventListener('DOMContentLoaded', modifyPage, true);
 
 document.write("hello");
 alert("fisk");
