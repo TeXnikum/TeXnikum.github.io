@@ -5,3 +5,5 @@ kramdown:
   input: GFM
 
 title: TeXnikum
+
+email_list: <div class="email-list">kage</div>
