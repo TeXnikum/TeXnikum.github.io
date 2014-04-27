@@ -1,4 +1,8 @@
 
+- title: Velkommen
+  text: Velkommen
+  url: "/"
+
 - title: hello
   text: hello
   url: "/hello"
