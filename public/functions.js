@@ -13,6 +13,3 @@ function modifyPage () {
 }
 
 window.addEventListener('DOMContentLoaded', modifyPage, true);
-
-// document.write("hello");
-// alert("fisk");
