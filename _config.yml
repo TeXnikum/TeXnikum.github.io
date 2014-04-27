@@ -6,4 +6,4 @@ kramdown:
 
 title: TeXnikum
 
-email-list: <div class="email-list"><div class="strikethrough">hemmelig@adresse.dk</div>(slå javascript til for at se den rigtige)</div>
+email-list: <span class="email-list"><span class="strikethrough">hemmelig@adresse.dk</span>(slå javascript til for at se den rigtige)</span>
