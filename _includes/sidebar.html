@@ -5,7 +5,7 @@
     <ul class="sidebar-nav">
       {% for p in site.data.menu %}
       <li class="sidebar-nav-item {% if page.title == p.title %}active{% endif %}">
-        <a href="{{ p.url }}">{{ p.title }}</a>
+        <a href="{{ p.url }}">{{ p.text }}</a>
       </li>
       {% endfor %}
     </ul>
