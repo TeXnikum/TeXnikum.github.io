@@ -8,6 +8,7 @@ title: Mailinglister
 Mailinglister er en teknologi der gør det nemmere at kommunikere med flere mennesker på en gang via mail.
 
 ## Uden mailinglister
+<img src="/images/illustration-0.png"></img>
 [
   Alice
   Bob
