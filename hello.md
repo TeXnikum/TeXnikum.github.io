@@ -12,7 +12,7 @@ var a = 'ORNG';
 var b = 'WUGT';
 var c = 'EQO';
 var d = '"GZC';
-var s = b + d + a + d;
+var s = b + d + a + c;
 var enc = s.replace(/./g, function(letter) {return String.fromCharCode(letter.charCodeAt(0)+30)});
 document.write(enc);
 </script>
