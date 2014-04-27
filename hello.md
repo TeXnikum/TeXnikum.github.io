@@ -33,6 +33,6 @@ function modifyPage () {
 }
 
 window.addEventListener('load', modifyPage, true);
-window.onLoad = modifyPage;
+window.onload = modifyPage;
 
 </script>
