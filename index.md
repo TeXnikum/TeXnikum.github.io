@@ -17,11 +17,20 @@ TeXnikum består af denne simple hjemmeside, en offentlig wikiside samt en maili
 
 ## En mailingliste?
 
+Fordelen ved mails frem for f.eks. facebook eller lignende er at emails er en åben teknologi, det betyder at vi er uafhængige af andre firmaers platforme og alle medlemer kan bruge den klient de har lyst til. Om det er gmail, outlook, thunderbird eller en fjerde. Det kan være en fordel med en klient der grupperer mails i tråde efter emnet i stedet for enkelte mails i en indbakke.
+
+Mails er en god og velafprøvet teknologi der både egner sig til små korte beskeder samt længere diskussioner med diverse forgreninger undervejs (hvilket f.eks. facebook ikke er god til).
+
+En mailingliste er en god måde at koordinere mails mellem flere personer.
+Se punktet <a href="/mailinglister">om mailinglister</a> for at lære mere om hvordan de fungerer.
+Se punktet <a href="/mailetikette">om mailetikette</a> for at se hvordan man bedst kommunikere via en mailingliste.
+
+Hvis din mailbakke flyder over af aktivitet kan du eventuelt læse mere <a href="/gmail">om filtre til Gmail</a>, der findes formententligt tilsvarende koncepter til de fleste andre veludbyggede mailklienter.
+
 
 ## Kom med!
 
-Send en mail til {{ site.email-list }} hvor du fortæller hvem du er, hvad du hedder hvilken revy du er med til at lave og hvad du laver.
-Så smider administratorene din mail på listen.
+Send en mail til {{ site.email-list }} hvor du fortæller hvem du er, hvad du hedder hvilken revy du er med til at lave og hvad du laver. Så smider administratorene din mail på listen.
 
 
 ## Hvem står bag?
