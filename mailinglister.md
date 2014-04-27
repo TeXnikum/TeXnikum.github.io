@@ -8,7 +8,7 @@ title: Mailinglister
 Mailinglister er en teknologi der gør det nemmere at kommunikere med flere mennesker på en gang via mail.
 
 ## Uden mailinglister
-<img src="/images/illustration-0.png" style="width: 100%; height: 100%;">
+<img src="/images/illustration-0.png" class="img">
 
 Hvis Alice ønsker at sende en mail til alle de andre i de forskellige revyers texnikgrupper kræver det at hun kender alle de andres mailaddresser hvortil hun kan sende en mail.
 
@@ -26,9 +26,9 @@ For at undgå dette kan man bruge en mailingliste. En mailingliste er en speciel
 
 Når man sender en mail til mailinglisten sørger den for at sende mailen ud til alle medlemmerne, og ligeledes for alle svarene til denne mail.
 
-<img src="/images/illustration-3.png">
+<img src="/images/illustration-3.png" class="img">
 
-<img src="/images/illustration-4.png">
+<img src="/images/illustration-4.png" class="img">
 
 Når man bliver tilmeldt mailinglisten modtager man således al post sendt dertil indtil man melder sig fra igen.
 
