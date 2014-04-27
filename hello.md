@@ -4,8 +4,9 @@ title: hello
 ---
 <script type="text/javascript">
 window.onload = function () {
-    var links = document
+    var links = document;
 }
+</script>
 
 # TeXnikum
 Velkommen til.
