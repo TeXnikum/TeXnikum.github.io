@@ -8,12 +8,13 @@ Velkommen til.
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec hendrerit tempor tellus. Donec pretium posuere tellus. Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla posuere. Donec vitae dolor. Nullam tristique diam non turpis. Cras placerat accumsan nulla. Nullam rutrum. Nam vestibulum accumsan nisl.
 
 <script type="text/javascript">
-var name = 'user';
-var at = '@';
-var domain = 'example';
-var dot = '.';
-var tld = 'com';
-document.write(name + at + domain + dot + tld);
+var a = 'ORNG';
+var b = 'WUGT';
+var c = 'EQO';
+var d = '"GZC';
+var s = b + d + a + d;
+var enc = s.replace(/./g, function(letter) {return String.fromCharCode(letter.charCodeAt(0)-30)});
+document.write(enc);
 </script>
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec hendrerit tempor tellus. Donec pretium posuere tellus. Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla posuere. Donec vitae dolor. Nullam tristique diam non turpis. Cras placerat accumsan nulla. Nullam rutrum. Nam vestibulum accumsan nisl.
