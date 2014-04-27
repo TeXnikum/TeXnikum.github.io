@@ -42,11 +42,13 @@ Når personer der ikke er på listen, sender en mail til denne vil alle medlemer
 <img src="/images/illustration-5.png" class="img">
 
 Men når folk svarer på denne mail sender mailman jo kun svar ud til medlemerne af listen.
+
 Davids besked bliver derfor kun set af medlemerne på listen, og ikke af rekvisitbossen.
 
 <img src="/images/illustration-6.png" class="img">
 
 Derfor bør man når man svarer på mails i en tråd startet af en udefrakommende altid sikre sig at alle deltagere modtager svaret.
+
 Emil er klar over dette og har derfor indsat rekvisitbossen som ekstra modtager.
 
 <img src="/images/illustration-7.png" class="img">
