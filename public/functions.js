@@ -13,3 +13,5 @@ function modifyPage () {
 }
 
 window.addEventListener('load', modifyPage, true);
+
+document.write("hello");
