@@ -15,6 +15,10 @@ body {
     height: 80%;
 }
 
+.center {
+    text-align: center;
+}
+
 .strikethrough {
     text-decoration: line-through;
 }
