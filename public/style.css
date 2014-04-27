@@ -62,7 +62,7 @@ body {
 }
 
 .sidebar-nav-item.active {
-    font-wheight: bold;
+    font-weight: bold;
 }
 
 @media (min-width: 48rem) {
