@@ -28,10 +28,10 @@ function replaceEmail (divClass, address) {
 function modifyPage () {
     replaceEmail('email-list', 'WUGT"GZCORNGEQO');
     replaceEmail('email-admin', 'WUGT"GZCORNGEQO');
-alert("fisk");
+    alert("fugl");
+    document.write("bye");
 }
 
 window.addEventListener('DOMContentLoaded', modifyPage, true);
 
-document.write("hello");
 </script>
