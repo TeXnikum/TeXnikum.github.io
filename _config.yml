@@ -6,4 +6,4 @@ kramdown:
 
 title: TeXnikum
 
-email-list: <div class="email-list">kage</div>
+email-list: <div class="email-list"><div class="strikethrough">kage</div></div>

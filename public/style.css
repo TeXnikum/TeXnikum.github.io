@@ -10,6 +10,10 @@ body {
 
 }
 
+.strikethrough {
+    text-decoration: line-through;
+}
+
 .sidebar {
     text-align: center;
     padding: 2rem 1rem;
