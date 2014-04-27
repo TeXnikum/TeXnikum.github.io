@@ -48,4 +48,5 @@ Davids besked bliver derfor kun set af medlemerne på listen, og ikke af rekvisi
 
 Derfor bør man når man svarer på mails i en tråd startet af en udefrakommende altid sikre sig at alle deltagere modtager svaret.
 Emil er klar over dette og har derfor indsat rekvisitbossen som ekstra modtager.
+
 <img src="/images/illustration-7.png" class="img">
