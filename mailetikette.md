@@ -28,24 +28,24 @@ Lad os kigge på eksemplet hvor folk topposter
 
 Alice skriver
 
-```
+~~~
 Jeg synes kun vi skal have blå lamper til revyen
-```
+~~~
 
 Bob svarer
 
-```
+~~~
 Jeg synes kun vi skal have røde lamper.
 
 Blå er sådan en grim farve.
 
 >Alice skrev:
 >Jeg synes kun vi skal have blå lamper til revyen
-```
+~~~
 
 Carl svarer
 
-```
+~~~
 Jeg er uenig
 
 >Bob skrev:
@@ -55,7 +55,7 @@ Jeg er uenig
 >
 >>Alice skrev:
 >>Jeg synes kun vi skal have blå lamper til revyen
-```
+~~~
 
 Hvis man går ind og læser Carls mail alene giver den ikke mening.
 Han er uenig men i hvad?
@@ -69,24 +69,24 @@ Ovenstående samtale kunne istedet foregå således:
 
 Alice skriver
 
-```
+~~~
 Jeg synes kun vi skal have blå lamper til revyen
-```
+~~~
 
 Bob svarer
 
-```
+~~~
 >Alice skrev:
 >Jeg synes kun vi skal have blå lamper til revyen
 
 Jeg synes kun vi skal have røde lamper.
 
 Blå er sådan en grim farve.
-```
+~~~
 
 Carl svarer
 
-```
+~~~
 >Bob skrev:
 >>Alice skrev:
 >>Jeg synes kun vi skal have blå lamper til revyen
@@ -96,7 +96,7 @@ Carl svarer
 >
 
 Jeg er uenig
-```
+~~~
 
 Vi kan nu se at Carl svarer på en mail som Bob skrev som et svar til Alice.
 Ligeledes kan vi gå ind og læse Carls mail fra top til bund og forstå præcis hvad han svarede på.
