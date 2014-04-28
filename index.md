@@ -25,7 +25,7 @@ En mailingliste er en god måde at koordinere mails mellem flere personer.
 Se punktet <a href="/mailinglister">om mailinglister</a> for at lære mere om hvordan de fungerer.
 Se punktet <a href="/mailetikette">om mailetikette</a> for at se hvordan man bedst kommunikere via en mailingliste.
 
-Hvis din mailbakke flyder over af aktivitet kan du eventuelt læse mere <a href="/gmail">om filtre til Gmail</a>, der findes formententligt tilsvarende koncepter til de fleste andre veludbyggede mailklienter.
+Hvis din mailbakke flyder over af aktivitet kan du eventuelt læse mere <a href="/gmail">om filtre til Gmail</a>. Der findes formententligt tilsvarende koncepter til de fleste andre veludbyggede mailklienter.
 
 
 ## Kom med!
