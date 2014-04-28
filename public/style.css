@@ -21,8 +21,8 @@ a:visited{
     color: #685338;
 }
 
-pre {
-    background-color: #E5D1B8;
+code {
+    background: #E5D1B8;
 }
 
 .img {
