@@ -12,4 +12,4 @@ TeXnikum har en offentligt tilgængelig wikiside på:
 
 Selve repositoriet kan ligeledes bruges til at dele filer med og tilgås via git.
 
-##[Repostoriet findes her](https://github.com/TeXnikum/TeXnikum)
+##[Repositoriet findes her](https://github.com/TeXnikum/TeXnikum)
