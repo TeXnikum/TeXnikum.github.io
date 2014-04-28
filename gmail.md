@@ -14,21 +14,21 @@ Gmail understøtter en funktion kaldet filtre (lignende koncepter findes forment
 Et filter er en søgning/kategorisering som Google laver over ens mails, man kan så f.eks. sende mails der matcher filtret til en seperat indbakke.
 
 ## Opret et filter
-Hvis du allerede har modtaget en mail fra listen kan du oprette et filter ved at åbne mailen og trykke på knappen *more* i toppen.
+Hvis du allerede har modtaget en mail fra listen kan du oprette et filter ved at åbne mailen og trykke på knappen **more** i toppen.
 
 <img src="/images/more.png" class="img">
 
-Der er et punkt kaldet *"Filter messages like theese"* eller tilsvarende.
+Der er et punkt kaldet **Filter messages like these** eller tilsvarende.
 
-Alternativt kan du trykke på tandhjulet i øverste højre hjørne, og trykke *Settings*.
+Alternativt kan du trykke på tandhjulet i øverste højre hjørne, og trykke **Settings**.
 
 <img src="/images/settings.png" class="img">
 
-Klik ind på *Filters* fanen.
+Klik ind på **Filters** fanen.
 
 <img src="/images/filters.png" class="img">
 
-Scroll ned til bunden og tryk *Create a new filter*
+Scroll ned til bunden og tryk **Create a new filter**
 
 <img src="/images/create-filter.png" class="img">
 
