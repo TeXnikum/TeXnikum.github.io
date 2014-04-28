@@ -12,12 +12,13 @@ body {
 
 a:link {
     /* color: #685338; */
-    color: #000000;
+    /* color: #000000; */
+    color: #130C06
 }
 
 a:visited{
-    color: #BFAA7D;
-    /* color: #685338; */
+    /* color: #BFAA7D; */
+    color: #685338;
 }
 
 .img {
