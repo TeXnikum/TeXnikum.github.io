@@ -28,6 +28,16 @@ Se punktet <a href="/mailetikette">om mailetikette</a> for at se hvordan man bed
 Hvis din mailbakke flyder over af aktivitet kan du eventuelt læse mere <a href="/gmail">om filtre til Gmail</a>. Der findes formententligt tilsvarende koncepter til de fleste andre veludbyggede mailklienter.
 
 
+## Hvad kan man bruge TeXnikum til?
+Man kan bruge mailinglisten til hvad man end måtte have på hjertet.
+
+* Hvad er forskellen på et DMX og et XLR kabel?
+* Vi vil købe en ny dims, synes i det skal være den grønne eller den blå?
+* Hjælp vi mangler en spotfører!!
+* Skal vi drikke os fulde og se på gamle revyklip?!
+* Jeg foreslår at vi laver to lysbumme på scenen!
+
+
 ## Kom med!
 
 Send en mail til {{ site.email-list }} hvor du fortæller hvem du er, hvad du hedder hvilken revy du er med til at lave og hvad du laver. Så smider administratorene din mail på listen.
