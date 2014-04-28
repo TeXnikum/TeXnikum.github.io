@@ -21,6 +21,10 @@ a:visited{
     color: #685338;
 }
 
+code {
+    background-color: #E5D1B8;
+}
+
 .img {
     width: 80%;
     height: 80%;
