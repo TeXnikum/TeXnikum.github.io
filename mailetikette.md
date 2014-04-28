@@ -26,14 +26,12 @@ For at holde styr på hvem og hvad folk svarer på.
 ### Hvordan ser topposting ud?
 Lad os kigge på eksemplet hvor folk topposter
 
-Alice skriver
-
+**Alice skriver**
 ~~~
 Jeg synes kun vi skal have blå lamper til revyen
 ~~~
 
-Bob svarer
-
+**Bob svarer**
 ~~~
 Jeg synes kun vi skal have røde lamper.
 
@@ -43,8 +41,7 @@ Blå er sådan en grim farve.
 >Jeg synes kun vi skal have blå lamper til revyen
 ~~~
 
-Carl svarer
-
+**Carl svarer**
 ~~~
 Jeg er uenig
 
