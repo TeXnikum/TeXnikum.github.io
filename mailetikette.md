@@ -121,10 +121,10 @@ Først trykker du **Reply** til den mail du vil svare på.
 Nu kommer det sædvanlige svarfelt op.
 Men nede i venstre hjørne findes en grå firkant med 3 prikker.
 
-<img src="show-citation.png" class="img">
+<img src="/images/show-citation.png" class="img">
 
 Trykker man på denne firkant kommer den citerede tekst op.
 
-<img src="reply-field.png" class="img">
+<img src="/images/reply-field.png" class="img">
 
 Man kan nu rykke cursoren ned under den citerede tekst og begynde at skrive sit svar.
