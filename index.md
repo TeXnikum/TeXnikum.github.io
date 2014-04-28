@@ -6,7 +6,7 @@ title: Velkommen
 # TeXnikum
 Velkommen til TeXnikum.dk
 
-<div class="center">{{ site.email-list }}</div>
+{{ site.email-list }}
 
 ## Hvad er TeXnikum
 TeXnikum er en forening skabt som et forsøg på at opbygge et fælleskab mellem texnikgrupperne i revyerne.
