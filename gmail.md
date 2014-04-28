@@ -34,6 +34,7 @@ Scroll ned til bunden og tryk **Create a new filter**
 
 ## Søgekriterier
 Nu kommer der en menu frem med et forslag til at filtrere alle mails ud fra googles bud på din søgning.
+
 Ofte vil dette bud være at filtrere på at mailen indeholder *list:(\<texnikum.dk--admin.dikumail.dk\>)*. Dette er et tag mailman putter på mails den sender ud. Desværre betyder det så at alle mails du sender til listen ikke havner i dette filter (med mindre det er en del af en tråd andre har svaret på).
 
 <img src="/images/first-filter.png" class="img">
