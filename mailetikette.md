@@ -64,7 +64,7 @@ Først derefter kommer man til den citerede tekst som han svarer på.
 Ydermere, hvis man vil læse hele konteksten i rækkefølge er man nød til at starte bagfra i mailen, bevæge sig op til den dybest citerede mail starter, læse denne, bevæge sig lidt længere op, læse nedad igen og såfremt.
 Det er ikke specielt elegant.
 
-# Bundposting
+## Bundposting
 Ovenstående samtale kunne istedet foregå således:
 
 **Alice skriver:**
