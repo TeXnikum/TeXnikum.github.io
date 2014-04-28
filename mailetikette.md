@@ -106,7 +106,7 @@ Mailen er dermed uafhængig af konteksten, men hvis vi godt kan huske hvad Alice
 Mange mailklienter folder automatisk citatet sammen.
 
 
-## Hvordan skriver man en *ikke*toppost
+## Hvordan skriver man en *ikke*-toppost
 
 Det kommer selvfølgelig and på din mailklient.
 
