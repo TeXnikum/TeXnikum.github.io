@@ -33,7 +33,7 @@ Når man sender en mail til mailinglisten sørger den for at sende mailen ud til
 Når man bliver tilmeldt mailinglisten modtager man således al post sendt dertil indtil man melder sig fra igen.
 
 
-## Svar til folk udenfor listen
+## Svar til folk udenfor listen <a id="svar_til_folk_udenfor_listen"></a>
 
 Mailman, som er det program vi bruger til mailinglisten, har en enkel mangel.
 
