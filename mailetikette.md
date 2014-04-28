@@ -27,11 +27,13 @@ For at holde styr på hvem og hvad folk svarer på.
 Lad os kigge på eksemplet hvor folk topposter
 
 **Alice skriver**
+
 ~~~
 Jeg synes kun vi skal have blå lamper til revyen
 ~~~
 
 **Bob svarer**
+
 ~~~
 Jeg synes kun vi skal have røde lamper.
 
@@ -42,6 +44,7 @@ Blå er sådan en grim farve.
 ~~~
 
 **Carl svarer**
+
 ~~~
 Jeg er uenig
 
@@ -64,13 +67,13 @@ Det er ikke specielt elegant.
 # Bundposting
 Ovenstående samtale kunne istedet foregå således:
 
-Alice skriver
+**Alice skriver**
 
 ~~~
 Jeg synes kun vi skal have blå lamper til revyen
 ~~~
 
-Bob svarer
+**Bob svarer**
 
 ~~~
 >Alice skrev:
@@ -81,7 +84,7 @@ Jeg synes kun vi skal have røde lamper.
 Blå er sådan en grim farve.
 ~~~
 
-Carl svarer
+**Carl svarer**
 
 ~~~
 >Bob skrev:
