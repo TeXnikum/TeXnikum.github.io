@@ -34,6 +34,7 @@ Når man bliver tilmeldt mailinglisten modtager man således al post sendt derti
 
 
 <a id="svar_til_folk_udenfor_listen"></a>
+
 ## Svar til folk udenfor listen
 
 Mailman, som er det program vi bruger til mailinglisten, har en enkel mangel.
