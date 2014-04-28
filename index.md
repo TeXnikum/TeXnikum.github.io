@@ -31,11 +31,11 @@ Hvis din mailbakke flyder over af aktivitet kan du eventuelt læse mere <a href=
 ## Hvad kan man bruge TeXnikum til?
 Man kan bruge mailinglisten til hvad man end måtte have på hjertet.
 
-* Hvad er forskellen på et DMX og et XLR kabel?
-* Vi vil købe en ny dims, synes i det skal være den grønne eller den blå?
-* Hjælp vi mangler en spotfører!!
-* Skal vi drikke os fulde og se på gamle revyklip?!
-* Jeg foreslår at vi laver to lysbumme på scenen!
++ *Hvad er forskellen på et DMX og et XLR kabel?*
++ *Vi vil købe en ny dims, synes i det skal være den grønne eller den blå?*
++ *Hjælp vi mangler en spotfører!!*
++ *Skal vi drikke os fulde og se på gamle revyklip?!*
++ *Jeg foreslår at vi laver to lysbumme på scenen!*
 
 
 ## Kom med!
