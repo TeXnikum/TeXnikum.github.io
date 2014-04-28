@@ -27,11 +27,13 @@ For at holde styr på hvem og hvad folk svarer på.
 Lad os kigge på eksemplet hvor folk topposter
 
 Alice skriver
+
 ```
 Jeg synes kun vi skal have blå lamper til revyen
 ```
 
 Bob svarer
+
 ```
 Jeg synes kun vi skal have røde lamper.
 
@@ -66,11 +68,13 @@ Det er ikke specielt elegant.
 Ovenstående samtale kunne istedet foregå således:
 
 Alice skriver
+
 ```
 Jeg synes kun vi skal have blå lamper til revyen
 ```
 
 Bob svarer
+
 ```
 >Alice skrev:
 >Jeg synes kun vi skal have blå lamper til revyen
