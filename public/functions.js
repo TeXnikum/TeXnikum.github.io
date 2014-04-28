@@ -8,8 +8,8 @@ function replaceEmail (divClass, address) {
 }
 
 function modifyPage () {
-    replaceEmail('email-list', 'WUGT"GZCORNGEQO');
-    replaceEmail('email-admin', 'WUGT"GZCORNGEQO');
+    replaceEmail('email-list', 'CNNG"VGZPKMWOFM');
+    replaceEmail('email-admin', 'CFOKP"VGZPKMWOFM');
 }
 
 window.addEventListener('DOMContentLoaded', modifyPage, true);
