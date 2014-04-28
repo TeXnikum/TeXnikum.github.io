@@ -15,23 +15,23 @@ Et filter er en søgning/kategorisering som Google laver over ens mails, man kan
 
 ## Opret et filter
 Hvis du allerede har modtaget en mail fra listen kan du oprette et filter ved at åbne mailen og trykke på knappen *more* i toppen.
-<img src="/images/more.png">
+<img src="/images/more.png" class="img">
 Der er et punkt kaldet *"Filter messages like theese"* eller tilsvarende.
 
 Alternativt kan du trykke på tandhjulet i øverste højre hjørne, og trykke *Settings*.
-<img src="/images/settings.png">
+<img src="/images/settings.png" class="img">
 Klik ind på *Filters* fanen.
-<img src="/images/filters.png">
+<img src="/images/filters.png" class="img">
 Scroll ned til bunden og tryk *Create a new filter*
-<img src="/images/create-filter.png">
+<img src="/images/create-filter.png" class="img">
 
 ## Søgekriterier
 Nu kommer der en menu frem med et forslag til at filtrere alle mails ud fra googles bud på din søgning.
 Ofte vil dette bud være at filtrere på at mailen indeholder *list:(<texnikum.dk--admin.dikumail.dk>)*. Dette er et tag mailman putter på mails den sender ud. Desværre betyder det så at alle mails du sender til listen ikke havner i dette filter (med mindre det er en del af en tråd andre har svaret på).
-<img src="/images/first-filter.png">
+<img src="/images/first-filter.png" class="img">
 
 For at undgå dette ændrer vi filtret til at dække alle mails sendt til *alle@teknikum.dk*
-<img src="/images/filter.png">
+<img src="/images/filter.png" class="img">
 Alternativt kan man vælge at fange mails sendt til *texnikum.dk*, derved fanger man mails til alle mailinglister på texnikum.dk domænet i ét filter.
 
 Hvis man gør dette kan man stadig kende forskel på hvilken liste der er skrevet til ud fra det tag (f.eks. **[alle]** eller **[admin]**) der automatisk sættes foran emnefeltet.
@@ -41,13 +41,13 @@ Tryk nu **Create filter with this search**
 ## Indstilling
 Nu skal vi vælge hvad der skal ske med de mails filtret fanger.
 
-<img src="/images/filter-settings.png">
+<img src="/images/filter-settings.png" class="img">
 
 Kryds **Skip the inbox** af hvis filtret skal sende mailsne ned i en seperat indbakke, ellers smides de både ned i texnikum mappen og findes i din normalle indbakke.
 
 Tryk **Apply the label** og vælg **New label**
 
-<img src="/images/create-label.png">
+<img src="/images/create-label.png" class="img">
 
 Skriv navnet på den indbakke du ønsker at oprette, f.eks. *texnikum*
 
