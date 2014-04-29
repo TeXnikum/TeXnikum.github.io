@@ -71,6 +71,8 @@ h1, h2, h3{
     color: #fff;
     text-decoration: none;
     font-size: 18pt;
+    font-family: "Changa One";
+    font-weight: normal;
 }
 
 .sidebar h1 {
