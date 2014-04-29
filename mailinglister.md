@@ -22,7 +22,7 @@ Ellers bliver Emil ked af det når Bob sender en mail ud til alle andre men glem
 
 ## Med mailinglister
 
-For at undgå dette kan man bruge en mailingliste. En mailingliste er en speciel mailaddresse (f.eks. {{ site.email-list }}) som man kan blive medlem af/abonere på. Når man er med i en mailingliste sørger mailinglisten for at holde styr på hvem der er med og hvem der ikke er, så brugerne ikke behøver det.
+For at undgå dette kan man bruge en mailingliste. En mailingliste er en speciel mailaddresse (f.eks. {{ site.email-list }}) som man kan blive medlem af/abonnere på. Når man er med i en mailingliste sørger mailinglisten for at holde styr på hvem der er med og hvem der ikke er, så brugerne ikke behøver det.
 
 Når man sender en mail til mailinglisten sørger den for at sende mailen ud til alle medlemmerne, og ligeledes med alle svarene til denne mail.
 
@@ -37,7 +37,7 @@ Når man bliver tilmeldt mailinglisten modtager man således al post sendt derti
 
 ## Svar til folk udenfor listen
 
-Mailman, som er det program vi bruger til mailinglisten, har en enkel mangel.
+Mailman, som er det program vi bruger til mailinglisten, har en enkelt mangel.
 
 Når personer der ikke er på listen, sender en mail til denne vil alle medlemerne modtage denne.
 
@@ -45,7 +45,7 @@ Når personer der ikke er på listen, sender en mail til denne vil alle medlemer
 
 Men når folk svarer på denne mail sender mailman jo kun svar ud til medlemerne af listen.
 
-Davids besked bliver derfor kun set af medlemerne på listen, og ikke af rekvisitbossen.
+Davids besked bliver derfor kun set af medlemmerne på listen, og ikke af rekvisitbossen.
 
 <img src="/images/illustration-6.png" class="img">
 

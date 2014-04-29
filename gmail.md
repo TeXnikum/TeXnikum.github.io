@@ -4,14 +4,14 @@ title: Gmail
 ---
 
 # Min indbakke er helt rodet
-Selv om man bruger en trådet emailklient kan ens indbakke hurtigt bliver rodet hvis man abonere på op til flere mailinglister.
+Selv om man bruger en trådet emailklient kan ens indbakke hurtigt bliver rodet hvis man abonnerer på op til flere mailinglister.
 
-For at afhjælpe dette kan man lave seperater indbakker til forskellige lister. På den måde kan man hurtigere få et overblik over ens egne mails og mails til listerne man er med på.
+For at afhjælpe dette kan man lave særskilte indbakker til forskellige lister. På den måde kan man hurtigere få et overblik over ens egne mails og mails til de lister man er med på.
 
 ## Filtre
-Gmail understøtter en funktion kaldet filtre (lignende koncepter findes formententligt til de fleste andre veludbyggede mailklienter).
+Gmail understøtter en funktion kaldet filtre (lignende koncepter findes formegentlig til de fleste andre veludbyggede mailklienter).
 
-Et filter er en søgning/kategorisering som Google laver over ens mails, man kan så f.eks. sende mails der matcher filtret til en seperat indbakke.
+Et filter er en søgning/kategorisering som Google laver over ens mails. Man kan så f.eks. sende mails der matcher filtret til en separat indbakke.
 
 ## Opret et filter
 Hvis du allerede har modtaget en mail fra listen kan du oprette et filter ved at åbne mailen og trykke på knappen **more** i toppen.
@@ -33,7 +33,7 @@ Scroll ned til bunden og tryk **Create a new filter**
 <img src="/images/create-filter.png" class="img">
 
 ## Søgekriterier
-Nu kommer der en menu frem med et forslag til at filtrere alle mails ud fra googles bud på din søgning.
+Nu kommer der en menu frem med et forslag til at filtrere alle mails ud fra Googles bud på din søgning.
 
 Ofte vil dette bud være at filtrere på at mailen indeholder *list:(\<texnikum.dk--admin.dikumail.dk\>)*. Dette er et tag mailman putter på mails den sender ud. Desværre betyder det så at alle mails du sender til listen ikke havner i dette filter (med mindre det er en del af en tråd andre har svaret på).
 
@@ -43,7 +43,7 @@ For at undgå dette ændrer vi filtret til at dække alle mails sendt til *alle@
 
 <img src="/images/filter.png" class="img">
 
-Alternativt kan man vælge at fange mails sendt til *texnikum.dk*, derved fanger man mails til alle mailinglister på texnikum.dk domænet i ét filter.
+Alternativt kan man vælge at fange mails sendt til *texnikum.dk*. Derved fanger man mails til alle mailinglister på texnikum.dk domænet i ét filter.
 
 Hvis man gør dette kan man stadig kende forskel på hvilken liste der er skrevet til ud fra det tag (f.eks. **[alle]** eller **[admin]**) der automatisk sættes foran emnefeltet.
 
@@ -54,7 +54,7 @@ Nu skal vi vælge hvad der skal ske med de mails filtret fanger.
 
 <img src="/images/filter-settings.png" class="img">
 
-Kryds **Skip the inbox** af hvis filtret skal sende mailsne ned i en seperat indbakke, ellers smides de både ned i texnikum mappen og findes i din normalle indbakke.
+Kryds **Skip the inbox** af hvis filtret skal sende mailsne ned i en separat indbakke, ellers smides de både ned i texnikum mappen og findes i din normalle indbakke.
 
 Tryk **Apply the label** og vælg **New label**
 
