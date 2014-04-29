@@ -16,11 +16,11 @@ Husk at tilføje afsenderen manuelt hvis han ikke er en del af mailinglisten.
 Når man svarer på en email er standard praksis at man citerer den besvarede mail. De fleste mailklienter gør automatisk dette.
 
 Desværre er der en ærgelig tendens til at den citerede tekst placeres under selve besvarelsen.
-Dette gør det sværrere at læse.
+Dette gør det sværere at læse.
 
-Der er flere måder at "læse" sine mails på, hvis ligger ordnet i en mailtråd og de er kommet nogenlunde samtidigt kan man læse mailsne en ad gangen og huske konteksten i form af samtalen uden at skulle læse tilbage.
+Der er flere måder at "læse" sine mails på. Hvis de ligger ordnet i en mailtråd og er kommet nogenlunde samtidigt kan man læse mailsne en ad gangen og huske konteksten i form af samtalen uden at skulle læse tilbage.
 
-Det elegante ved mails er dog at hver mail kan læses selvstændigt uden for denne kontekst. Hvis det f.eks. er et svar på en gammel tråd, hvis ikke man har læst hele tråden, hvis ikke man har en trådet klient men aller vigtigst:
+Det elegante ved mails er dog at hver mail kan læses selvstændigt uden for denne kontekst. Hvis det f.eks. er et svar på en gammel tråd, hvis ikke man har læst hele tråden, hvis ikke man har en trådet klient men allervigtigst:
 For at holde styr på hvem og hvad folk svarer på.
 
 ### Hvordan ser topposting ud?
@@ -108,7 +108,7 @@ Mange mailklienter folder automatisk citatet sammen.
 
 ## Hvordan skriver man en *ikke*-toppost
 
-Det kommer selvfølgelig and på din mailklient.
+Det kommer selvfølgelig an på din mailklient.
 
 Nogle mailklienter laver svarfeltet som et stort tekstfelt hvori den citerede tekst allerede er indsat.
 Du skal så blot bladre cursoren ned under denne tekst og skrive her
