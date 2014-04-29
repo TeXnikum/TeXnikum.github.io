@@ -41,6 +41,10 @@ pre {
     text-decoration: line-through;
 }
 
+h1 {
+    font-family: "Changa One";
+}
+
 .sidebar {
     text-align: center;
     padding: 2rem 1rem;
